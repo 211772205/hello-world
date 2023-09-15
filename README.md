@@ -1,2 +1,4 @@
 # hello-world
-Cursando ensino superior em analise e desenvolvimento de sistemas.
+Meu nome é josué tenho 25 anos e
+atualmente estou cursando Ensino Superior
+em Análise e Desenvolvimento de Sistemas, em busca de um emprego na área de tecnologia.
